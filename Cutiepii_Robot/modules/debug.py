@@ -1,9 +1,9 @@
 """
 MIT License
 
-Copyright (C) 2021 Awesome-RJ
+Copyright (C) 2021 Slient-Boy
 
-This file is part of @Cutiepii_Robot (Telegram Bot)
+This file is part of @ShokoGBot  (Elaina) [Telegram Bot]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
